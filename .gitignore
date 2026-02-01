@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.env
+
+# OS
+.DS_Store
+
+# Model & credentials (สำคัญ!)
+tomato-line-bot-3985a819d76c
+*.pth
+
+# Temp files
+input.jpg
