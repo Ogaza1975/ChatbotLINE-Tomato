@@ -20,7 +20,7 @@ scope = [
 ]
 
 creds = ServiceAccountCredentials.from_json_keyfile_name(
-    "tomato-line-bot.json", scope
+    "tomato-line-bot-3985a819d76c", scope
 )
 client = gspread.authorize(creds)
 
