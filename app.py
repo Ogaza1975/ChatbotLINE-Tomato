@@ -53,7 +53,7 @@ client = gspread.authorize(creds)
 
 # 👉 ใส่ Spreadsheet ID จริง
 sheet = client.open_by_key(
-    "PUT_YOUR_SPREADSHEET_ID_HERE"
+    "1VhCs76yNRjb_voXbPDJu4uP9NHNXcCLzeJV3xnrSnFw"
 ).sheet1
 
 
